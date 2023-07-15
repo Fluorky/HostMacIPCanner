@@ -3,6 +3,6 @@ This python script use command arp -a to scans network and return json with host
 
 To run this code please write this command:
 
-python3 host_macs.py (linux/OSX)
+python3 hostsIpsMacScanner.py (linux/OSX)
 
-python host_macs.py (Windows)
+python hostsIpsMacScanner.py (Windows)
